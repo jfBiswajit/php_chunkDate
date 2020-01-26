@@ -5,7 +5,7 @@ This is a helper function which helps to chunk date into days, month, years
 __Example: 1__
 
 ```
-Input: chunkDate('2020-01-12');
+Input: chunkDate('2020-01-12')
 Output: 3 days ago
 ```
 
