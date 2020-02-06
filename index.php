@@ -1,4 +1,5 @@
 function chunkDate($dateStr) {
+
         $createdAt=date_create($dateStr);
         $today=date_create(date('Y-m-d'));
         $diff=date_diff($createdAt, $today);
